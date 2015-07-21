@@ -1,0 +1,13 @@
+﻿body {
+   background-color: darkred;
+}
+
+.homepage section[role=main] {
+    margin: auto 120px;
+}
+
+
+#greetingOutput {
+    height: 20px; 
+    margin-bottom: 40px;
+}
